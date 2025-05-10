@@ -1,1 +1,1 @@
-download the code made by Alaa Saood for a machine learning model.
+This project, led by Alaa Saood, applies Multiple Linear Regression to analyze startup profitability. Using data from 50 companies, the model predicts profit based on key financial indicators. The process involved data preprocessing, training, and performance evaluation. Results showed a high level of accuracy and reliability. Key insights were extracted using both machine learning and statistical analysis. The project highlights Alaa Saood's ability to apply data science for practical business insights.
